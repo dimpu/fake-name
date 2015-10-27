@@ -1,0 +1,25 @@
+{
+  "name": "fake-name",
+  "version": "1.0.0",
+  "description": "A Node.js library to create fake data for you.",
+  "main": "fake-name.js",
+  "bin":{
+    "faker":"fake-name.js"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "faker",
+    "name",
+    "random",
+    "fake-data",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimpu/fake-name.git"
+  },
+  "author": "Dimpu Aravind Buddha <buddhaaravind@gmail.com> (http://techumber.com)",
+  "license": "MIT"
+}
